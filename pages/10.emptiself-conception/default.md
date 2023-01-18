@@ -1,8 +1,19 @@
 ---
-title: 'EmptiSelf Conception'
+title: 'New Beginnigs Where When How'
 published: true
 hide_git_sync_repo_link: false
 ---
+
+## **EmptiSelf Conception Is How**
+
+## Now, in one time forward lifetime, is the where and when
+Never the same evanescent iState in the present only the emptiness persists and pervades every present beyond this cohesion
+The process orientation which is required to take advantage of the more inclusive progressive nature of evolution while including insights from the human strange loop access can be achieved using the EmptiSelf conception provided.
+The EmptiSelf can be imagined as the null state of willing awareness where all that is in the iState is willingly witnessed without any positive or negative will. The idea is that if you can know this space of equilibrium in your mind then you can start calibrating better iStates from the inside out.
+The issue with the self conceptions derived from persona conceptions is that they have affirmed sunken values that are misconceived and can be painful to remove for us all.
+
+Process Orientation Is Effortless With EmptiSelf conception
+
 
 ### Access The EmptiSelf, Envision Emergent Knowledge Flow Solutions From Beyond Persona bound self conceptions.
 The thesis is simple at its roots,
