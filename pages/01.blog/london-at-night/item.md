@@ -1,5 +1,5 @@
 ---
-title: 'London at Night'
+title: 'Reduce the distance between new knowledge awareness, understanding and application using actual experience'
 hero_classes: 'text-light title-h1h2 overlay-dark hero-large parallax'
 hero_image: unsplash-london-night.jpg
 taxonomy:
@@ -20,6 +20,8 @@ hide_from_post_list: false
 feed:
     limit: 10
 ---
+
+The integration of the will component within the Mi-iMind emergent knowledge processing solutions creates the potential for faster eschewing of debunked practices while transforming the experience of letting go of attachments to errors into an enlivening positive experience. Errors are present polluters in the form of self doubt when self conception is derived from persona self conceptions in contrast to errors being corrections to a desired course when using the Mi-iMind  EmptiSelf conception. Navigating one time forward lifetime will require course corrections if the desired outcome is to be achieved. 
 
 Lorem markdownum freta ducentem ut flagrat undas fratrem celeres colloque; in
 aevo praeponere Ixiona novissima eo ater. Exhortor tuae. Est sim auras, paciscor
