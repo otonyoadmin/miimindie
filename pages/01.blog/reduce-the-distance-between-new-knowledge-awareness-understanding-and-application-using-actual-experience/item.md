@@ -1,7 +1,7 @@
 ---
 title: 'Reduce the distance between new knowledge awareness, understanding and application using actual experience'
 hero_classes: 'text-light title-h1h2 overlay-dark hero-large parallax'
-hero_image: unsplash-london-night.jpg
+hero_image: neq.webp
 taxonomy:
     category:
         - blog
