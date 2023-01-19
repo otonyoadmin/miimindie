@@ -9,7 +9,7 @@ taxonomy:
         - city
         - night
         - photography
-header_image_alt_text: 'City at night'
+header_image_alt_text: 'Errors Are Course Corrctions'
 published: true
 hide_git_sync_repo_link: false
 blog_url: /blog
@@ -19,7 +19,7 @@ show_pagination: true
 hide_from_post_list: false
 feed:
     limit: 10
-media_order: 'unsplash-london-night.jpg,unsplash-xbrunel-johnson.jpg,neq.webp'
+media_order: 'neq.webp, unsplash-london-night.jpg,unsplash-xbrunel-johnson.jpg,'''
 ---
 
 The integration of the will component within the Mi-iMind emergent knowledge processing solutions creates the potential for faster eschewing of debunked practices while transforming the experience of letting go of attachments to errors into an enlivening positive experience. Errors are present polluters in the form of self doubt when self conception is derived from persona self conceptions in contrast to errors being corrections to a desired course when using the Mi-iMind  EmptiSelf conception. Navigating one time forward lifetime will require course corrections if the desired outcome is to be achieved. 
