@@ -22,6 +22,7 @@ feed:
 ---
 
 When an average person looks at Greta Thurnberg they may imagine a young person with a passionate heart felt commitment to a cause she truly believes in however there is much more to her passion and wisdom than meets the 'I' of the persona. Greta Turnberg sees with the vision of a great mathemetacian and cannot believe the confidence of the wilfully ignorant mountabanks whose intellectual shallowness self evidently cannot be seen by them, it is not a conspiracy they are that wilfully ignorant.
+The quality of Thurnberg's sincerity is made deeper by her commitment to scientifc arguments and the brittle self conception of the ego bound men in power belies their system need for igonarance.
 Don't ask who shot the arrow or why, the wood it was made from the tree that it came from, work with the unwounded heart in a human Me-mind work with the true nature of our capacity to have this now to come from the wound I in Me-mind is to know the limitations of this systemic commitment in  the life of a Me-mind. We commit to our ideas and if those ideas come from the wrong game then when we win the wrong game we are better than those who are second in the wrong game.
 
 The persona prances through the minds of anglophile white men who imagine their power as piviliage to knowledge that they do not and cannot have as proven by their own science. Changing paradigm changes change to emergence.
