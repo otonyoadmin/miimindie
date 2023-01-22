@@ -32,7 +32,7 @@ feed:
 pagination: true
 child_type: item
 media_order: 'image-3v1K74LjlcgHjiDX.jpg,FILE206.JPG,FILE206s.jpg,logoCombinesa.png,mimindlogonewoBmedium.png,_91951892_moon.jpg.webp,2mimindlogonewoB.png,doubleRainbow.jpg,ounilogoed-1.png,newbannerlogo.png,bannerlogoeasreIsland.png,sunsky1.png,bannert1.png'
-hero_image: sunsky1.png
+hero_image: bannert1.png
 ---
 
 ####  **MAKE _WILLING TO KNOW NOW_ Evanescent iStates**
