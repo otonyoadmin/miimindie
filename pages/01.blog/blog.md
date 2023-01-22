@@ -35,4 +35,4 @@ media_order: 'image-3v1K74LjlcgHjiDX.jpg,FILE206.JPG,FILE206s.jpg,logoCombinesa.
 hero_image: bannerlogoeasreIsland.png
 ---
 
-####  **make _willing to know now_ Evanescent iStates**
+####  **MAKE _WILLING TO KNOW NOW_ Evanescent iStates**
