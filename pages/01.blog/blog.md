@@ -35,4 +35,3 @@ media_order: 'image-3v1K74LjlcgHjiDX.jpg,FILE206.JPG,FILE206s.jpg,logoCombinesa.
 hero_image: bannert1.png
 ---
 
-####  **MAKE _WILLING TO KNOW NOW_ Evanescent iStates**
