@@ -31,7 +31,7 @@ feed:
     description: 'Sample Blog Description'
 pagination: true
 child_type: item
-media_order: 'image-3v1K74LjlcgHjiDX.jpg,FILE206.JPG,FILE206s.jpg,logoCombinesa.png,mimindlogonewoBmedium.png,_91951892_moon.jpg.webp,2mimindlogonewoB.png,doubleRainbow.jpg,ounilogoed-1.png,newbannerlogo.png,bannerlogoeasreIsland.png'
+media_order: 'image-3v1K74LjlcgHjiDX.jpg,FILE206.JPG,FILE206s.jpg,logoCombinesa.png,mimindlogonewoBmedium.png,_91951892_moon.jpg.webp,2mimindlogonewoB.png,doubleRainbow.jpg,ounilogoed-1.png,newbannerlogo.png,bannerlogoeasreIsland.png,bannert1.png'
 hero_image: bannert1.png
 ---
 
