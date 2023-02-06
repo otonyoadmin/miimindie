@@ -23,7 +23,7 @@ date: '14-01-2023 16:34'
 
  Disabuse & Eradicate Persistent Persona Pollutants Of Emergent Knowledge Flow In Me-Mind
  
- There is an obvious limit to the amount of suffering that an ego/I bound self conception can bare in any Me-Mind, from the empathetic _I can't bare to watch the news everyday, to I cannot bare to think of a child dying of starvation every 4 seconds in this modern world where the stain on my shirt causes me more upset than thinking of how long it takes to die from starvation and what can powerless I do about it now anyway.
+ There is an obvious limit to the amount of suffering that an ego/I bound self conception can bare in any Me-Mind, from the empathetic _I can't bare to watch the news everyday, to I cannot bare to think of a child dying of starvation every 4 seconds in this modern world where the stain on my shirt causes me more upset than thinking of how long it takes to die from starvation and what can powerless I do about it now anyway._ 
 
 The systemic limitation of imagination entailed in persona I identities is made obvious within any Me-Mind as the acceptance of the impotence of personal 'I' identities is psychologically necessary to make continuation within the identity manageable. 
 
