@@ -1,5 +1,5 @@
 ---
-title: 'Mindful 1st To Manage The Witnessing Of Suffereing Identify, Disabuse & Irradicate Persistent Persona Pollutants Of Emergent Knowledge Flow In Me-Mind'
+title: 'Mindful 1st EmptiSelf conception To Manage The Witnessing Of Suffereing In False Views Of Identify'
 hero_classes: 'text-light title-h1h2 overlay-dark hero-large parallax'
 hero_image: FILE704.JPG
 taxonomy:
@@ -20,6 +20,12 @@ feed:
     limit: 10
 date: '14-01-2023 16:34'
 ---
+
+ Disabuse & Eradicate Persistent Persona Pollutants Of Emergent Knowledge Flow In Me-Mind
+ 
+ There is an obvious limit to the amount of suffering that an ego/I bound self conception can bare in any Me-Mind, from the empathetic _I can't bare to watch the news everyday, to I cannot bare to think of a child dying of starvation every 4 seconds in this modern world where the stain on my shirt causes me more upset than thinking of how long it takes to die from starvation and what can powerless I do about it now anyway.
+
+The systemic limitation of imagination entailed in persona I identities is made obvious within any Me-Mind as the acceptance of the impotence of personal 'I' identities is psychologically necessary to make continuation within the identity manageable. 
 
 The self conceptions that are derived from Persona schematics are self limiting causes of self esteem issues. In the service of personal management of societal conformity these persona bound self conceptions are bound to static categories and linear hierarchies like Maslow's hierarchy of needs.
 If Maslow's hierarchy of needs was suitable for use in a dynamic lived life then medical Doctors in first world medicine would have better mental health than gardeners.
