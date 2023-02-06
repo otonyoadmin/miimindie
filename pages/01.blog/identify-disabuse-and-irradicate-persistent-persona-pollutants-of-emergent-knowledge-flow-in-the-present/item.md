@@ -1,5 +1,5 @@
 ---
-title: 'Identify, Disabuse & Irradicate Persistent Persona Pollutants Of Emergent Knowledge Flow In Me-Mind'
+title: 'Mindful 1st To Manage The Witnessing Of Suffereing Identify, Disabuse & Irradicate Persistent Persona Pollutants Of Emergent Knowledge Flow In Me-Mind'
 hero_classes: 'text-light title-h1h2 overlay-dark hero-large parallax'
 hero_image: FILE704.JPG
 taxonomy:
