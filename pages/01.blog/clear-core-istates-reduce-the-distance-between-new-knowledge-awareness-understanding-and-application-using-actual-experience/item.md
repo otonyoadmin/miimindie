@@ -22,6 +22,8 @@ feed:
 media_order: 'neq.webp, unsplash-london-night.jpg,unsplash-xbrunel-johnson.jpg,'''
 ---
 
+Clear Core iStates provide the capacity for creating ground up present participation feed back loops in flattened hierarchies that enable process management.
+
 The use of what are called iStates to denote states of awareness within a human Me-Mind in the Mi-iMind solutions essentially refers to time bound awareness in the present. 
 
 The concept is simple by design as it seeks to collect clear understanding of the current awareness in any present moment. 
