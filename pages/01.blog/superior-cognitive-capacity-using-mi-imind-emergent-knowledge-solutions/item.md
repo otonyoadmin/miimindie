@@ -1,5 +1,5 @@
 ---
-title: 'Giving Me-Mind Authority Imprematur and imprimatur and Superior Cognitive Capacity Using Mi-iMind Emergent Knowledge Solutions'
+title: 'Giving Me-Mind The Authority Imprematur and Superior Cognitive Capacity Using Mi-iMind Emergent Knowledge Solutions'
 hero_classes: 'text-light title-h1h2 overlay-light-gradient hero-large parallax'
 hero_image: rr.png
 taxonomy:
@@ -22,6 +22,8 @@ media_order: rr.png
 ---
 
 The issue of Imprematur and who or what is needed in a human Me-Mind is essential to understand as it is the use of faulty imprematur that has undermined the systemic attempts to understand and adapt faster using the currently emerging human knowledge.
+
+At a minimum level the most up to date method for determining any imprimatur being used in professional knowledge work needs to understand and impliment superior cognitive processing. 
 
 Anicdotally informed people talk of a 30year lag  een new discoveries and basic implimentations in industry and wider society. Hard core 1980 s waterfall business planning was debunked at the end ofof the 1990 s and yet you will still find in widespread use in the 1st world in areas where the alternatives have not been considered. 
 The human resource personell at the highest levels while exceptionally competent at creating the outcomes desired by the company cannot be held responsible for envisioning a company where information and knowledge flowed freely or where processes themselves become explicit purposes.
