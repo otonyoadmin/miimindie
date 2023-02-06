@@ -27,7 +27,9 @@ date: '14-01-2023 16:34'
 
 The systemic limitation of imagination entailed in persona I identities is made obvious within any Me-Mind as the acceptance of the impotence of personal 'I' identities is psychologically necessary to make continuation within the identity manageable. 
 
-The self conceptions that are derived from Persona schematics are self limiting causes of self esteem issues. In the service of personal management of societal conformity these persona bound self conceptions are bound to static categories and linear hierarchies like Maslow's hierarchy of needs.
+One reason the self conceptions that are derived from persona schematics are self limiting causes of self esteem issues is that they stand in relationship with abstract linear causal functions which have their roots in the natural language story of the exceptional nature of human identity at the centre of this Universe, a perverse conceit that persists as opinion in opposition to scientific knowledge. Given this misconception opinion it seems can be turned into belief regardless of whether it is contradicts the knowledge known yet not fully understood in any human Me-Mind
+
+In the service of personal management of societal conformity these persona bound self conceptions are bound to static categories and linear hierarchies like Maslow's hierarchy of needs.
 If Maslow's hierarchy of needs was suitable for use in a dynamic lived life then medical Doctors in first world medicine would have better mental health than gardeners.
 
 result in debilitating self esteem issues.in relationship with brittle linear imprimatur among all hoi poloi personal bound self conceptions regardless of socio-economic status. Put another way when we are inhabiting hoi poloi iStates our self conception is derived from small men among small things by virtue of the systemic code being limited by natural language and subject object errors with hidden myth of the given imputations.
