@@ -28,7 +28,7 @@ The use of what are called iStates to denote states of awareness within a human 
 
 The concept is simple by design as it seeks only to collect clear understanding of the current awareness in any present moment of any individual Me-Mind. The will or bias of the Me-Mind is observed as simply as a valueless iState.
 
-Simple interpretations of present responses can be used in relationship with context free judgements such as instinctive yuck responses or mentally complex contextualized responses such as shadenfreude which contains upstream and downstream assumptions. In both cases we can observe the presence of incomplete evaluation while each seeks to impute faulty sunken value in next steps.  
+Simple interpretations of present responses can be used in relationship with context free judgements such as instinctive yuck responses or mentally complex contextualized responses such as shadenfreude which contains upstream and downstream assumptions. In both cases we can observe the presence of incomplete evaluation while each seeks to impute faulty sunken values in present participation.  
 
 Clear core iStates have no other desire they do not seek a yes or a no in relationship with what is under consideration while at the same time the nature of the will present in the Me-Mind at the time of the awareness is of the utmost importance. The clear core iState is charged with noting the weak will or what can be referred to as a weak signalling of what the Me-Mind wants to be the case. The presence or absence of strong weak or indifferent will in relationship with identification in the attention at the present time under reflective attention.
 
