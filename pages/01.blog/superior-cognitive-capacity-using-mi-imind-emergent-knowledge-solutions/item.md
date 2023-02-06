@@ -1,5 +1,5 @@
 ---
-title: 'Superior Cognitive Capacity Using Mi-iMind Emergent Knowledge Solutions'
+title: 'Giving Me-Mind Authority Imprematur and imprimatur and Superior Cognitive Capacity Using Mi-iMind Emergent Knowledge Solutions'
 hero_classes: 'text-light title-h1h2 overlay-light-gradient hero-large parallax'
 hero_image: rr.png
 taxonomy:
@@ -20,6 +20,18 @@ feed:
     limit: 10
 media_order: rr.png
 ---
+
+The issue of Imprematur and who or what is needed in a human Me-Mind is essential to understand as it is the use of faulty imprematur that has undermined the systemic attempts to understand and adapt faster using the currently emerging human knowledge.
+
+Anicdotally informed people talk of a 30year lag  een new discoveries and basic implimentations in industry and wider society. Hard core 1980 s waterfall business planning was debunked at the end ofof the 1990 s and yet you will still find in widespread use in the 1st world in areas where the alternatives have not been considered. 
+The human resource personell at the highest levels while exceptionally competent at creating the outcomes desired by the company cannot be held responsible for envisioning a company where information and knowledge flowed freely or where processes themselves become explicit purposes.
+
+Mi-iMind is a tool with a dynamic process orientation where the purpose is the processing of continuously emergent knowledge in a human Me-Mind and the positive human wellbeing and right livelihood are natural bi products as both are necessary for processing continuously emergent human knowledge.
+
+Often it is thought that it is the family culture that influences society most however the power is with businesses and it is there that the arguments from this outline will find a more receptive audience because business knows knowledge is key and first to the knowledge wins.
+
+Changes in business philosophies for starting companies at the ate improvement beyond certain limits imposed 
+
 
 Processing continuously emergent human knowledge can become wearisome very regularly if the sunken value that is debunked recurs in conscious awareness and continues to present as an option seeking to be chosen or rejected again. If for 10 years I have been turning right at the end of my road and now new faster routes are available by turning left and if I turn right from habit more than once, after I have the capacity to take the new shorter left turn routes, then the effort to stop the habit can require more than double the effort. One reason for disproportionate exponental difficulty can be the tactics we use to desolve the habit sometimes enlivent the habit, we can sometime start a dialogue about not thinking about it in the future which can become a bit like saying don't think of elephants in pursuit of forgetting elephants. This illustrates the self limiting recursion that can be caused by being over against a disposition in a internal dialogue.
 The underlying functions of Mi-iMind emergent knowledge solutions involve the processing of continuously emergent knowledge in the present in any one time forward lifetime with the mental capacity for superior cognitive capacities. 
