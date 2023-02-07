@@ -7,9 +7,6 @@ hero_image: unsplash-overcast-mountains.jpg
 taxonomy:
     category:
         - blog
-    tag:
-        - photography
-        - journal
 header_image_alt_text: Mountains
 hide_git_sync_repo_link: false
 blog_url: /blog
