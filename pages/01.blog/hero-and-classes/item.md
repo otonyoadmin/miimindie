@@ -1,5 +1,5 @@
 ---
-title: 'Hero and Classes'
+title: 'Why Hoi Poloi iStates Cannot Find What I Am Looking For'
 author: 'Tasha Maxwell'
 continue_link: true
 hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-large parallax'
@@ -18,6 +18,11 @@ feed:
     limit: 10
 published: false
 ---
+
+Even when we come to mentally accept the soundness of the argument(s) that proves that it is impossible for a language bound persona to even express how or what would satisfy a Me-Mind we will continue to look for the image that by its nature cannot be found in inner experience.
+
+will satisfy a Me-Mind  for more than a moment expression of desire in the form of an object
+
 
 The [Quark theme](https://getgrav.org/downloads/themes) has the ability to allow pages to override some of the default options by letting the user set `body_classes` for any page.  The theme will merge the combination of the defaults with any `body_classes` set. This allows you to easily add hero classes to give your blog post some **bling**.
 
