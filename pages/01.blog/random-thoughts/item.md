@@ -1,6 +1,5 @@
 ---
 title: 'Understand Why Our Parents Could Not Know What We Can Know Now'
-date: '13:34 05/26/2017'
 taxonomy:
     category:
         - blog
@@ -14,6 +13,7 @@ show_pagination: true
 hide_from_post_list: false
 feed:
     limit: 10
+published: false
 ---
 
 Sincerity has been born, bred and buttered from errors labelled sincere since men thought they were made in the image of Chronos imagined life as essentially Latin for the hoi poloi the hell bound artist glimpsing his God in herm, the mother affirming his special nature and modernity set out to free this self described exceptionalism only to find that the end was in the beginning.
