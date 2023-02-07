@@ -32,6 +32,6 @@ feed:
 pagination: true
 child_type: item
 media_order: 'logoCombinesa.png,mimindlogonewoBmedium.png,_91951892_moon.jpg.webp,2mimindlogonewoB.png,doubleRainbow.jpg,ounilogoed-1.png,newbannerlogo.png,miimindbanneri.png,banner2miimind.png'
-hero_image: banner2miimind.png
+hero_image: banner2q.png
 ---
 
