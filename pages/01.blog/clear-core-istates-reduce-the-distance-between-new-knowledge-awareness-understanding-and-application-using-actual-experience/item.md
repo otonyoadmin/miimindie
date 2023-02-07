@@ -1,5 +1,5 @@
 ---
-title: 'Clear Core iStates, reduce the distance between new knowledge awareness, understanding and application using actual experience'
+title: 'Clear Core iStates, reduce the time between new knowledge awareness, understanding and adaptations'
 hero_classes: 'text-light title-h1h2 overlay-dark hero-large parallax'
 hero_image: neq.webp
 taxonomy:
@@ -21,6 +21,8 @@ media_order: 'neq.webp, unsplash-london-night.jpg,unsplash-xbrunel-johnson.jpg,'
 ---
 
 Clear Core iStates provide the capacity for creating ground up present participation feed back loops in flattened hierarchies that enable process management.
+
+The unique benefit of Clear-Core iStates arises from their nature as it is willing to know, this iState is infinitely open and receives emergent knowledge without resistance, stress or enthusiasm.
 
 The use of what are called iStates to denote states of awareness within a human Me-Mind in the Mi-iMind solutions, essentially refers to time bound awareness in the present. 
 
