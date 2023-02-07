@@ -6,9 +6,7 @@ taxonomy:
     category:
         - blog
     tag:
-        - city
-        - night
-        - photography
+        - 'Positive Present Participation'
 header_image_alt_text: 'City at night'
 hide_git_sync_repo_link: false
 blog_url: /blog
