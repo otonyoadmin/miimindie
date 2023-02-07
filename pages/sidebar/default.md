@@ -3,10 +3,11 @@ title: Sidebar
 routable: false
 visible: false
 position: top
+hide_git_sync_repo_link: false
 ---
 
-#### Markdown Area
+#### Introducing Me~Mind
 
-Some text here.
+Human consciousness embodied in one time forward lifetime, in iState awareness.
 
 [twitter url="https://twitter.com/hibbittsdesign" text="Tweets by @hibbittsdesign" height="600"]
