@@ -8,6 +8,7 @@ taxonomy:
     tag:
         - Mi-iWitness
         - EmptiSelf
+        - Imprematur
 header_image_alt_text: 'Interdependent Shapes'
 published: true
 hide_git_sync_repo_link: false
