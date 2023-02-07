@@ -1,14 +1,9 @@
 ---
 title: 'DaringFireball Style Link'
-date: '13:34 07/05/2014'
 link: 'http://getgrav.org'
 taxonomy:
     category:
         - blog
-    tag:
-        - journal
-        - text
-published: false
 hide_git_sync_repo_link: false
 blog_url: /blog
 show_sidebar: true
