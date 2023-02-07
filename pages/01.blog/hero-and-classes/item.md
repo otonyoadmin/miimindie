@@ -1,5 +1,5 @@
 ---
-title: 'Why Hoi Poloi iStates Cannot Find What I Am Looking For'
+title: 'How I Still Cannot Find What I''m Looking For, Why Hoi Poloi iStates Go Hunting The Snark'
 author: 'Tasha Maxwell'
 continue_link: true
 hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-large parallax'
