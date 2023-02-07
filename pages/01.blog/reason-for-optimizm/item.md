@@ -18,7 +18,11 @@ feed:
 media_order: 'unsplash-london-night.jpg,unsplash-xbrunel-johnson.jpg,ft.png.png'
 ---
 
-Lorem markdownum freta ducentem ut flagrat undas fratrem celeres colloque; in
+The process orientation paradigm used within the Mi-iMind emergent knowledge solutions provides a way to track ever better iStates from the inside out.
+
+Using actual experience withe evanescent iStates enables the effortless inclusion and use of better solutions which are capable of following the emergent knowledge flow.
+
+making the Lorem markdownum freta ducentem ut flagrat undas fratrem celeres colloque; in
 aevo praeponere Ixiona novissima eo ater. Exhortor tuae. Est sim auras, paciscor
 [iaculum](http://tibique.net/pacis-telamone) roganti tellure, nubibus et Aetna
 tantis et caudice.
