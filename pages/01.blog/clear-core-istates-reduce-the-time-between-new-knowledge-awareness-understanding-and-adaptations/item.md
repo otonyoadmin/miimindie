@@ -40,4 +40,4 @@ The integration of the will awareness component, within the Mi-iMind emergent kn
 
 The Mi~iMind Mindful 1st use of EmptiSelf conception enables the capacity, in Me-Minds with the capacity to understand, to effortlessly and easily identify and eschew self contradictory practices and actively transforms the experience of letting go of attachments to errors into an enlivening positive experience that enables the discovery of iteratively better solutions.
 
-Errors are present polluters in the form of self doubt when self conception is derived from persona self conceptions in contrast to errors being corrections to a desired course when using the Mi-iMind  EmptiSelf conception. Navigating one time forward lifetime will require course corrections if the desired outcome is to be achieved. 
+Systemically caused errors are present polluters in any Me-Mind sometimes the form of self doubt when self conception is derived from persona self conceptions in contrast to errors being corrections to a desired course when using the Mi-iMind  EmptiSelf conception. Navigating one time forward lifetime will require course corrections if the desired outcome is to be achieved. 
