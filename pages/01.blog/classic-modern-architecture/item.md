@@ -4,8 +4,8 @@ taxonomy:
     category:
         - blog
     tag:
-        - photography
-        - architecture
+        - Ecology
+        - Persona
 hero_classes: 'text-dark title-h1h2 overlay-light hero-large parallax'
 hero_image: unsplash-luca-bravo.jpg
 blog_url: /blog
