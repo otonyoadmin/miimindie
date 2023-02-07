@@ -20,6 +20,8 @@ published: true
 media_order: 'unsplash-overcast-mountains.jpg,MvXt9t87WG8IRuXszwGOLm3aw5AFmtR4pUf27Gsk_2Fa8_3D-resultThumbUrl.jpg'
 ---
 
+Hunting the snark is futile yet there are always enthusiastic crews led by sincere believers. The passion of the hunt is enthralling 
+
 The language bound 'I Am' and 'I Want' are not capable of realizing satisfaction in the continuous flow of emergent knowledge flow.
 Even when we come to mentally accept the soundness of the argument(s) that proves that it is impossible for a language bound persona to even express how or what would satisfy a Me-Mind we will continue to look for the image that by its nature cannot be found in inner experience.
 
