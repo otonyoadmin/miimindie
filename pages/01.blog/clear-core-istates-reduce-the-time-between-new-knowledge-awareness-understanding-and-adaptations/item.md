@@ -22,13 +22,15 @@ media_order: 'neq.webp, unsplash-london-night.jpg,unsplash-xbrunel-johnson.jpg,'
 
 Clear Core iStates provide the capacity for creating ground up present participation feed back loops in flattened hierarchies that enable process management.
 
-The unique benefit of Clear-Core iStates arises from their nature as it is willing to know, this iState is infinitely open and receives emergent knowledge without resistance, stress or enthusiasm.
+The unique benefit of evanescent Clear-Core iStates arises from their nature as each Clear-Core iState is essentially open and willing to know, this iState is infinitely open and receives emergent knowledge without resistance, stress or enthusiasm.
 
-The use of what are called iStates to denote states of awareness within a human Me-Mind in the Mi-iMind solutions, essentially refers to time bound awareness in the present. 
+The use of what are called iStates to denote states of awareness within a human Me-Mind, in the Mi-iMind solutions, essentially refers to time bound awareness in the present. 
 
-The concept is simple by design as it seeks only to collect clear understanding of the current awareness in any present moment of any individual Me-Mind. The will or bias of the Me-Mind is observed as simply as a valueless iState.
+The concept is simple by design as it seeks only to collect clear understanding of the current awareness in any present moment of any individual Me-Mind. The will or bias present in any iState such as those created by the accompanying feelings may be included  in the awareness of Clear-Core iStates without judgement. 
 
-Simple interpretations of present responses can be used in relationship with context free judgements such as instinctive yuck responses or mentally complex contextualized responses such as shadenfreude which contains upstream and downstream assumptions. In both cases we can observe the presence of incomplete evaluation while each seeks to impute faulty sunken values in present participation.  
+Will awareness provided by Clear-Core iStates enables subsequent reflective analysis using desire profiles.
+
+Simple interpretations of present responses can be used in relationship with context free willed judgements such as instinctive yuck responses or mentally complex contextualized responses such as Schadenfreude which contains upstream and downstream assumptions. In both cases we can observe the presence of incomplete evaluation while each seeks to impute faulty sunken values in present participation.  
 
 Clear core iStates have no other desire they do not seek a yes or a no in relationship with what is under consideration while at the same time the nature of the will present in the Me-Mind at the time of the awareness is of the utmost importance. 
 
