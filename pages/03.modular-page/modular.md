@@ -1,5 +1,5 @@
 ---
-title: 'Modular (Page Collection)'
+title: 'Mindful 1st'
 content:
     items: '@self.modular'
 published: false
