@@ -6,9 +6,7 @@ taxonomy:
     category:
         - blog
     tag:
-        - city
-        - night
-        - photography
+        - Mi-iWitness
 header_image_alt_text: 'Errors Are Course Corrctions'
 published: true
 hide_git_sync_repo_link: false
