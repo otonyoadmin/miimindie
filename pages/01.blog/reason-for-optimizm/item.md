@@ -1,11 +1,12 @@
 ---
-title: 'Reason For Optimizm'
-date: '13:34 06/07/2017'
+title: 'Mi-iMind Provides A Reason For Optimism'
 hero_classes: 'text-light title-h1h2 overlay-dark hero-large parallax'
 hero_image: ft.png.png
 taxonomy:
     category:
         - blog
+    tag:
+        - 'Positive Present Participation'
 header_image_alt_text: 'City at night'
 hide_git_sync_repo_link: false
 blog_url: /blog
