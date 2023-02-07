@@ -16,7 +16,7 @@ show_pagination: true
 hide_from_post_list: false
 feed:
     limit: 10
-published: false
+published: true
 ---
 
 Even when we come to mentally accept the soundness of the argument(s) that proves that it is impossible for a language bound persona to even express how or what would satisfy a Me-Mind we will continue to look for the image that by its nature cannot be found in inner experience.
