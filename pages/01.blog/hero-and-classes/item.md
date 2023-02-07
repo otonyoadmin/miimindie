@@ -3,7 +3,7 @@ title: 'Why Hoi Poloi iStates Cannot Find What I Am Looking For'
 author: 'Tasha Maxwell'
 continue_link: true
 hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-large parallax'
-hero_image: unsplash-overcast-mountains.jpg
+hero_image: MvXt9t87WG8IRuXszwGOLm3aw5AFmtR4pUf27Gsk_2Fa8_3D-resultThumbUrl.jpg
 taxonomy:
     category:
         - blog
@@ -17,6 +17,7 @@ hide_from_post_list: false
 feed:
     limit: 10
 published: true
+media_order: 'unsplash-overcast-mountains.jpg,MvXt9t87WG8IRuXszwGOLm3aw5AFmtR4pUf27Gsk_2Fa8_3D-resultThumbUrl.jpg'
 ---
 
 Even when we come to mentally accept the soundness of the argument(s) that proves that it is impossible for a language bound persona to even express how or what would satisfy a Me-Mind we will continue to look for the image that by its nature cannot be found in inner experience.
