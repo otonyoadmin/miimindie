@@ -8,7 +8,7 @@ taxonomy:
     tag:
         - Mi-iWitness
         - EmptiSelf
-header_image_alt_text: 'Plant, which blurs into the distance'
+header_image_alt_text: 'Interdependent Shapes'
 published: true
 hide_git_sync_repo_link: false
 blog_url: /blog
