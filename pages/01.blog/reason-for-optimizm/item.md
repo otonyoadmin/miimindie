@@ -6,10 +6,6 @@ hero_image: ft.png.png
 taxonomy:
     category:
         - blog
-    tag:
-        - photography
-        - city
-        - night
 header_image_alt_text: 'City at night'
 hide_git_sync_repo_link: false
 blog_url: /blog
