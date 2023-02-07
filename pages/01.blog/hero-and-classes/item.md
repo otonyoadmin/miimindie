@@ -1,5 +1,5 @@
 ---
-title: 'How I Still Cannot Find What I''m Looking For, Why Hoi Poloi iStates Go Hunting The Snark'
+title: 'Why I Cannot Find What I''m Looking For, Desire Dinamic Insight'
 author: 'Tasha Maxwell'
 continue_link: true
 hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-large parallax'
