@@ -7,6 +7,7 @@ taxonomy:
         - blog
     tag:
         - Mi-iWitness
+        - iStates
 header_image_alt_text: 'Errors Are Course Corrctions'
 published: true
 hide_git_sync_repo_link: false
