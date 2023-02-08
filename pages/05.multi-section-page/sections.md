@@ -18,6 +18,8 @@ hide_next_prev_page_buttons: false
 ---
 
 [div class="sections-page-title"]
+
+
 ### Overview of Applied Concepts
 [/div]
 
