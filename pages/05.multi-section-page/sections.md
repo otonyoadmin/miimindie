@@ -17,8 +17,6 @@ hide_git_sync_repo_link: false
 hide_next_prev_page_buttons: false
 ---
 
-
-
 [div class="sections-page-title"]
 
 ### outline overview of the integrated disciplines
