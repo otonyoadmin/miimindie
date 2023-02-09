@@ -32,7 +32,7 @@ hide_next_prev_page_buttons: false
 
 **EmptiSelf Conception** uses the the intellectual understanding of the Heart Sutra 2 truths to outline and synthetically integrate the effortless receptivity and nature of the anti fragile Doubtless Self
 
-1 Door Psychosynthesis enables the integration of the western psychospiritual Psychosynthesis modalities with iStates of present awareness unconfined by self limiting Psychoanalytic roots.
+**1 Door Psychosynthesis** enables the integration of the western psychospiritual Psychosynthesis modalities with iStates of present awareness unconfined by self limiting Psychoanalytic roots.
 
 that abides through time within a Me-Mind living one time forward lifetime and the empty self conception at the heart of the wester psycho spiritual Psychosynthesis while eschewing the Psychoanalytic framing that was used to
 
