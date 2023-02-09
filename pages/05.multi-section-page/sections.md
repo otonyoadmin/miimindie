@@ -15,7 +15,7 @@ content:
 child_type: section
 hide_git_sync_repo_link: false
 hide_next_prev_page_buttons: false
-media_order: Fle3N7GWQAAiV_7.jpg
+media_order: 'Fle3N7GWQAAiV_7.jpg,Asset 1.png,drop.png'
 ---
 
 [div class="sections-page-title"]
