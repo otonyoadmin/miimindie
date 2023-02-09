@@ -19,9 +19,9 @@ media_order: 'Fle3N7GWQAAiV_7.jpg,Asset 1.png,drop.png'
 ---
 
 [div class="sections-page-title"]
-![](drop.png)
-### outline overview of the integrated disciplines
 
+### outline overview of the integrated disciplines
+![](Fle3N7GWQAAiV_7.jpg)
 
 [/div]
 
