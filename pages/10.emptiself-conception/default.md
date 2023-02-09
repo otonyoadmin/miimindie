@@ -1,5 +1,5 @@
 ---
-title: 'New Beginnigs Where When How'
+title: 'Opening Mi-iStates, The Present In The Present, New Beginnigs Where When How'
 published: true
 hide_git_sync_repo_link: false
 ---
@@ -7,6 +7,12 @@ hide_git_sync_repo_link: false
 ## **EmptiSelf Conception Is How**
 
 ## Now, in one time forward lifetime, is the where and when
+The congruent process orientation purposes. proposed by Desire Dinamics for now, in the human Me-Mind willing to follow the knowledge flow in the present being inhabited Me-Mind is Positive Present Participation.
+
+The secret sacred sauce is in the opening of the present from the Doubtless Self awareness of the profundity of Emptiness, like the essential nature of numbers emptiness reveals itself as a nature that abides even in the 1 that underpines the personal pronoun, whether I or The or We or Us or Them or They, the first 'I' others into all Non-U's and society takes flight in the self limiting infinities between 1 and zero. The symmetry noticed by mankind is in the Universe the arts notice it and the ego/I squanders the potential of the vision in a Bell curve that imagines it is mine and not mined by the open will. 
+
+
+
 Never the same evanescent iState in the present only the emptiness persists and pervades every present beyond this cohesion
 The process orientation which is required to take advantage of the more inclusive progressive nature of evolution while including insights from the human strange loop access can be achieved using the EmptiSelf conception provided.
 The EmptiSelf can be imagined as the null state of willing awareness where all that is in the iState is willingly witnessed without any positive or negative will. The idea is that if you can know this space of equilibrium in your mind then you can start calibrating better iStates from the inside out.
