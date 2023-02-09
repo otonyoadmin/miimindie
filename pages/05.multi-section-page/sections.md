@@ -31,6 +31,12 @@ media_order: Fle3N7GWQAAiV_7.jpg
 
 **EmptiSelf Conception** uses the the intellectual understanding of the Heart Sutra 2 truths to outline and synthetically integrate the effortless receptivity and nature of the anti fragile Doubtless Self
 
+**Opening Mi~iMind **
+
+The process orientation that enables infinite inclusion in a Me~Mind depends upon the dynamic of the opening of the iMind from the EmptiSelf, from the inside out. From the inside there is nothing to be over against, it is the null point enabled in the dynamic unfolding enabled by the application of EmptiSelf that enable pathways from the inside to the outside for a human Me-Mind. 
+
+**The paradigm shift** enables the creation of empty paving for the pathway from the inside out, which enable the use of emptiness as first cause. 
+
 **Opening Mi~iMind **  The process orientation that enables infinite inclusion in a Me~Mind depends upon the opening of the iMind
 
 **1 Door Psychosynthesis** enables the integration of the western psychospiritual Psychosynthesis modalities with iStates of present awareness unconfined by self limiting Psychoanalytic roots.
