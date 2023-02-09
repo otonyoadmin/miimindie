@@ -19,7 +19,7 @@ media_order: Fle3N7GWQAAiV_7.jpg
 ---
 
 [div class="sections-page-title"]
-
+![]Fle3N7GWQAAiV_7.jpg()
 ### outline overview of the integrated disciplines
 [/div]
 
