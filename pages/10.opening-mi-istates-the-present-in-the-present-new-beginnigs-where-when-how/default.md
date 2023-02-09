@@ -1,6 +1,6 @@
 ---
 title: 'Opening Mi-iStates, The Present In The Present, New Beginnigs Where When How'
-published: false
+published: true
 hide_git_sync_repo_link: false
 ---
 
