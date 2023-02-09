@@ -28,7 +28,18 @@ hide_next_prev_page_buttons: false
 
 **The Me-Mind** conception is a simple foundational conjecture which proposes the embodied perception of in the lived experience of a Me-Mind living one time forward lifetime.
 
-Mindful 1st provides the background for the Doubtless Self conception that is the core of the Mahayana 2 truths, which emerge from and intellectual understanding of the heart sutra. Medititive understanding of the heart sutra is ttraditionally consider as more profound than the intellectual understanding, which can be achieved by minds of higher capacity. This is not an IQ issue as much as it is a flow issue. A certain amount of grey matter is needed however it is the capacity to allow the grey to glow silver in harmony with the light flow that indicates the effortless release of an infinite flow of errors discovered in a lived experience that is mapping ever better outcomes.    
+**Mindful 1st** provides the background for the EmptiSelf conception from which the anti fragile Doubtless Self emerges in present processing of emergent human knowledge.
+
+**EmptiSelf Conception** uses the the intellectual understanding of the Heart Sutra 2 truths to outline and synthetically integrate the effortless receptivity and nature of the anti fragile Doubtless Self
+
+1 Door Psychosynthesis enables the integration of the western psychospiritual Psychosynthesis modalities with iStates of present awareness unconfined by self limiting Psychoanalytic roots.
+
+that abides through time within a Me-Mind living one time forward lifetime and the empty self conception at the heart of the wester psycho spiritual Psychosynthesis while eschewing the Psychoanalytic framing that was used to
+
+psychospirititual psychosynthesis model.
+
+
+conception that is the core of the Mahayana 2 truths, which emerge from and intellectual understanding of the heart sutra. Medititive understanding of the heart sutra is ttraditionally consider as more profound than the intellectual understanding, which can be achieved by minds of higher capacity. This is not an IQ issue as much as it is a flow issue. A certain amount of grey matter is needed however it is the capacity to allow the grey to glow silver in harmony with the light flow that indicates the effortless release of an infinite flow of errors discovered in a lived experience that is mapping ever better outcomes.    
 
 
 
