@@ -18,9 +18,12 @@ hide_next_prev_page_buttons: false
 media_order: 'Fle3N7GWQAAiV_7.jpg,Asset 1.png,drop.png'
 ---
 
+![](drop.png)
 [div class="sections-page-title"]
-![](Asset 1.png)
+
 ### outline overview of the integrated disciplines
+
+
 [/div]
 
 **Desire Dinamics** provides the mathematics, the first order logic and a clear cognitive structure as the scientific foundations from which the Me-Mind modalities are constructed.
