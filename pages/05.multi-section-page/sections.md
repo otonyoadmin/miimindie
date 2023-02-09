@@ -31,6 +31,8 @@ media_order: Fle3N7GWQAAiV_7.jpg
 
 **EmptiSelf Conception** uses the the intellectual understanding of the Heart Sutra 2 truths to outline and synthetically integrate the effortless receptivity and nature of the anti fragile Doubtless Self
 
+Opening Mi~iMind 
+
 **1 Door Psychosynthesis** enables the integration of the western psychospiritual Psychosynthesis modalities with iStates of present awareness unconfined by self limiting Psychoanalytic roots.
 
 Hoi Poloi iStates The nature of objects of desire that emerge from within the confines of hoi poloi iStates makes them impermanent temporary by virtue of their nature. 
