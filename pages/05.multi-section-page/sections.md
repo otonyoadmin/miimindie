@@ -18,7 +18,6 @@ hide_next_prev_page_buttons: false
 media_order: 'Fle3N7GWQAAiV_7.jpg,Asset 1.png,drop.png'
 ---
 
-
 [div class="sections-page-title"]
 ![](drop.png)
 ### outline overview of the integrated disciplines
@@ -30,7 +29,7 @@ media_order: 'Fle3N7GWQAAiV_7.jpg,Asset 1.png,drop.png'
 
 **The Me-Mind** conception is a simple foundational conjecture which proposes the embodied perception of in the lived experience of a Me-Mind living one time forward lifetime.
 
-**Mindful 1st** provides the background for the EmptiSelf conception from which the anti fragile Doubtless Self emerges in present processing of emergent human knowledge.
+**Mindful 1st** provides the background for the EmptiSelf conception from which the anti fragile Doubtless Self emerges enabling the management of process orientation in a Me-Mind that understands why it never steps into the same iState twice.
 
 **EmptiSelf Conception** uses the the intellectual understanding of the Heart Sutra 2 truths to outline and synthetically integrate the effortless receptivity and nature of the anti fragile Doubtless Self
 
