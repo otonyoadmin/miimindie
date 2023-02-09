@@ -18,9 +18,9 @@ hide_next_prev_page_buttons: false
 media_order: 'Fle3N7GWQAAiV_7.jpg,Asset 1.png,drop.png'
 ---
 
-![](drop.png)
-[div class="sections-page-title"]
 
+[div class="sections-page-title"]
+![](drop.png)
 ### outline overview of the integrated disciplines
 
 
