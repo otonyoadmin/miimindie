@@ -33,6 +33,8 @@ media_order: Fle3N7GWQAAiV_7.jpg
 
 **1 Door Psychosynthesis** enables the integration of the western psychospiritual Psychosynthesis modalities with iStates of present awareness unconfined by self limiting Psychoanalytic roots.
 
+Hoi Poloi iStates The nature of objects of desire that emerge from within the confines of hoi poloi iStates makes them impermanent temporary by virtue of their nature. 
+
 that abides through time within a Me-Mind living one time forward lifetime and the empty self conception at the heart of the wester psycho spiritual Psychosynthesis while eschewing the Psychoanalytic framing that was used to
 
 psychospirititual psychosynthesis model.
