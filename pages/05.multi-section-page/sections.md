@@ -43,7 +43,7 @@ The challenge in the present is to keep up with the speed at which the actuality
 The process orientation that enables infinite inclusion in a Me~Mind depends upon the dynamic of the opening of the iMind from the EmptiSelf, from the inside out. 
 From the inside of a Me-Mind there is nothing to be over against, it is the null point awareness enabled in the dynamic unfolding by the nature and application of EmptiSelf conception that makes making pathways from the inside to the outside for a human Me-Mind effortless when made with empty paving stones. 
 
-**The paradigm shift** enables the creation of empty paving for the pathway from the inside out, which enable the use of emptiness as first cause. 
+**The paradigm shift** enables the creation of empty paving for the pathway from the inside out, which enable the use of emptiness as first cause. The null state enables the calibration and management of thresholds. 
 
 **Opening Mi~iMind **  The process orientation that enables infinite inclusion in a Me~Mind depends upon the opening of the iMind
 
