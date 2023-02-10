@@ -15,14 +15,13 @@ content:
 child_type: section
 hide_git_sync_repo_link: false
 hide_next_prev_page_buttons: false
-media_order: 2drop.png
+media_order: '2drop.png,2adrop.jpg'
 ---
 
 [div class="sections-page-title"]
-![](2drop.png)
 
 ### outline overview of the integrated disciplines
-
+![](2drop.png)
 
 [/div]
 
