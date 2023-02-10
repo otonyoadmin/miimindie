@@ -31,7 +31,7 @@ media_order: '2drop.png,2adrop.jpg'
 
 **Mindful 1st** provides the background for the EmptiSelf conception from which the anti fragile Doubtless Self emerges enabling the management of process orientation in a Me-Mind that understands why it never steps into the same iState twice.
 
-**EmptiSelf Conception** uses the the intellectual understanding of the Heart Sutra 2 truths to outline and synthetically integrate the effortless receptivity and nature of the anti fragile Doubtless Self
+**EmptiSelf Conception** Enables unrestricted composition while using the tested and proven intellectual understanding of the Heart Sutra 2 truths to outline and synthetically integrate the effortless receptivity and nature of the anti fragile Doubtless Self
 
 **Opening Mi~iMind **
 
