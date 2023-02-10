@@ -1,5 +1,5 @@
 ---
-title: outline
+title: 'Outline Overview'
 published: true
 hide_page_title: true
 content:
