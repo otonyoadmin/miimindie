@@ -41,7 +41,8 @@ d
 
 The challenge in the present is to keep up with the speed at which the actuality of lived experience reveals iteratively better dispositions for ideal attitudes in the present.   
 
-**Mindful 1st** provides the background for the EmptiSelf conception from which the anti fragile Doubtless Self emerges enabling the management of process orientation in a Me-Mind that understands why Me=Mind never steps into the same iState twice and all iStates are partial and contingent.
+**Mindful 1st** There is nothing that was truly here  that is not truly here now, how can we be in relationship with what abides in every present moment as the knowledge continuous to emerge in one time forward lifetime of iStates of awareness in the present.
+realy here provides the background for the EmptiSelf conception from which the anti fragile Doubtless Self emerges enabling the management of process orientation in a Me-Mind that understands why Me=Mind never steps into the same iState twice and all iStates are partial and contingent.
 
 **EmptiSelf Conception** Enables unrestricted composition while using the tested and proven intellectual understanding of the Heart Sutra 2 truths to outline and synthetically integrate the effortless receptivity and nature of the anti fragile Doubtless Self. The process of continuously mothering process purposes in relationship with the emergent knowledge is cornerstone.
 
