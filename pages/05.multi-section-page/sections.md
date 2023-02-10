@@ -19,9 +19,10 @@ media_order: 2drop.png
 ---
 
 [div class="sections-page-title"]
+![](2drop.png)
 
 ### outline overview of the integrated disciplines
-![](2drop.png)
+
 
 [/div]
 
