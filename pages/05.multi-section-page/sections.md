@@ -27,6 +27,11 @@ media_order: '2drop.png,2adrop.jpg'
 ![](2adrop.jpg)
 
 This is a framework for processing information, knowledge and understanding in a human Me-Mind living one time forward lifetime. The Buddhist frameworks feature include the Diamond Sutra, The Heart Sutra and Beginners Mind Zen practice. These Buddhist solutions are presented as representing a pragmatic way to deal with the myriad natural attachments that accompany the lived experience of one human lifetime.
+
+The challenge is to follow the emergent knowledge as near to the present as possible. It is possible to define the constrained infinities the normal anglophone white man inhabits due to delusional sunken values that have already been rendered absurd, the cave is sealed with a name that shadows differentially in each Me-Mind competing in the game of life that uses the bell curve the way astrologers used the maps of the planets to impute meaning where there is none, a life lived for meaning that is not is the only life some people have and can have, this is the nature of the sea of suffering that is the human condition in false views,Schadenfreude wishes ill upon these chimeras belying the small minded nature of Schadenfreude.
+
+Wilful ignorance is not a racial or a gender issue it is an identification issue, there are many great white guys, identification is tied to human attachment to the substantial and or significance, some imprimatur and that confers superior status in a linear hierarchy like Maslow's hierarchy of needs.
+
 The superior cognitive processing is a simple adaptation of Prof Robert Brandoms work that has flowed from his seminal work Making It Explicit. This is a teachable piece and most importantly once understood then new foundational errors will show up in everyday Me-Mind processing, like invisible ink becoming visible from the flamed heat of attention with new capacity. 
 d
 
