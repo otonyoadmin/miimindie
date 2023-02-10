@@ -1,5 +1,5 @@
 ---
-title: 'Multi-Section Page'
+title: outline
 published: true
 hide_page_title: true
 content:
