@@ -22,11 +22,13 @@ media_order: '2drop.png,2adrop.jpg'
 
 ---[/div]
 
-### Outlining the integrated disciplines which enable the solutions
+### Outlining the integrated disciplines which underpin the emergent knowledge flow solutions
 ## Emergent Knowledge Flow Solutions, for professional human knowledge work
 ![](2adrop.jpg)
 
-
+This is a framework for processing information, knowledge and understanding in a human Me-Mind living one time forward lifetime. The Buddhist frameworks feature include the Diamond Sutra, The Heart Sutra and Beginners Mind Zen practice. These Buddhist solutions are presented as representing a pragmatic way to deal with the myriad natural attachments that accompany the lived experience of one human lifetime.
+The superior cognitive processing is a simple adaptation of Prof Robert Brandoms work that has flowed from his seminal work Making It Explicit. This is a teachable piece and most importantly once understood then new foundational errors will show up in everyday Me-Mind processing, like invisible ink becoming visible from the flamed heat of attention with new capacity. 
+d
 
 **Desire Dinamics** provides the mathematics, the first order logic tracing identification in the present with a pragmatic clear cognitive structure as the scientific foundations from which the Me-Mind modalities are constructed and provides a process purposes 
 
