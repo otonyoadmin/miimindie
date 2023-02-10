@@ -20,12 +20,13 @@ media_order: '2drop.png,2adrop.jpg'
 
 [div class="sections-page-title"]
 
----
+---[/div]
+
 ### outline overview of the integrated disciplines
 ## Emergent Knowledge Flow Solutions, for professional human knowledge work
 ![](2adrop.jpg)
 
-[/div]
+
 
 **Desire Dinamics** provides the mathematics, the first order logic and a clear cognitive structure as the scientific foundations from which the Me-Mind modalities are constructed.
 
