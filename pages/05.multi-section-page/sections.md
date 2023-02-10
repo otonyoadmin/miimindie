@@ -22,23 +22,26 @@ media_order: '2drop.png,2adrop.jpg'
 
 ---[/div]
 
-### outline of the integrated disciplines
+### Outlining the integrated disciplines which enable the solutions
 ## Emergent Knowledge Flow Solutions, for professional human knowledge work
 ![](2adrop.jpg)
 
 
 
-**Desire Dinamics** provides the mathematics, the first order logic and a clear cognitive structure as the scientific foundations from which the Me-Mind modalities are constructed.
+**Desire Dinamics** provides the mathematics, the first order logic tracing identification in the present with a pragmatic clear cognitive structure as the scientific foundations from which the Me-Mind modalities are constructed and provides a process purposes 
 
-**The Me-Mind** conception is a simple foundational conjecture which proposes the embodied perception of in the lived experience of a Me-Mind living one time forward lifetime.
+**The Me-Mind** conception is a simple foundational conjecture which proposes the embodied perception as the lived experience of a Me-Mind living in one time forward lifetime where emergent knowledge flows in the present. New knowledge is available due to constantly increasing capacity. 
 
-**Mindful 1st** provides the background for the EmptiSelf conception from which the anti fragile Doubtless Self emerges enabling the management of process orientation in a Me-Mind that understands why it never steps into the same iState twice.
+The challenge in the present is to keep up with the speed at which the actuality of lived experience reveals iteratively better dispositions for ideal attitudes in the present.   
 
-**EmptiSelf Conception** Enables unrestricted composition while using the tested and proven intellectual understanding of the Heart Sutra 2 truths to outline and synthetically integrate the effortless receptivity and nature of the anti fragile Doubtless Self
+**Mindful 1st** provides the background for the EmptiSelf conception from which the anti fragile Doubtless Self emerges enabling the management of process orientation in a Me-Mind that understands why Me=Mind never steps into the same iState twice and all iStates are partial and contingent.
+
+**EmptiSelf Conception** Enables unrestricted composition while using the tested and proven intellectual understanding of the Heart Sutra 2 truths to outline and synthetically integrate the effortless receptivity and nature of the anti fragile Doubtless Self. The process of continuously mothering process purposes in relationship with the emergent knowledge is cornerstone.
 
 **Opening Mi~iMind **
 
-The process orientation that enables infinite inclusion in a Me~Mind depends upon the dynamic of the opening of the iMind from the EmptiSelf, from the inside out. From the inside there is nothing to be over against, it is the null point enabled in the dynamic unfolding enabled by the application of EmptiSelf that enable pathways from the inside to the outside for a human Me-Mind. 
+The process orientation that enables infinite inclusion in a Me~Mind depends upon the dynamic of the opening of the iMind from the EmptiSelf, from the inside out. 
+From the inside of a Me-Mind there is nothing to be over against, it is the null point awareness enabled in the dynamic unfolding by the nature and application of EmptiSelf conception that makes making pathways from the inside to the outside for a human Me-Mind effortless when made with empty paving stones. 
 
 **The paradigm shift** enables the creation of empty paving for the pathway from the inside out, which enable the use of emptiness as first cause. 
 
