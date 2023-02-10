@@ -20,6 +20,7 @@ media_order: '2drop.png,2adrop.jpg'
 
 [div class="sections-page-title"]
 
+---
 ### outline overview of the integrated disciplines
 ## Emergent Knowledge Flow Solutions, for professional human knowledge work
 ![](2adrop.jpg)
