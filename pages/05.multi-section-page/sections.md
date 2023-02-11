@@ -19,8 +19,11 @@ media_order: '2drop.png,2adrop.jpg'
 ---
 
 [div class="sections-page-title"]
-
-### Outlining the integrated disciplines which underpin the emergent knowledge flow solutions
+  
+  
+  
+   
+Outlining the integrated disciplines which underpin the emergent knowledge flow solutions
 
 [/div]
    
