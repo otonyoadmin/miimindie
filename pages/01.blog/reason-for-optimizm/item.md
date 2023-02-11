@@ -16,7 +16,7 @@ show_pagination: true
 hide_from_post_list: false
 feed:
     limit: 10
-media_order: 'unsplash-london-night.jpg,unsplash-xbrunel-johnson.jpg,ft.png.png,Understand More Faster.png,what.png.webp'
+media_order: 'ft.png.png,2adrop.jpg,sunsky1.png,seasunbanner.jpg'
 ---
 
 The process orientation paradigm used within the Mi-iMind emergent knowledge solutions provides a way to track ever better iStates from the inside out.
