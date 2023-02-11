@@ -17,7 +17,7 @@ hide_from_post_list: false
 feed:
     limit: 10
 published: true
-media_order: 'unsplash-overcast-mountains.jpg,MvXt9t87WG8IRuXszwGOLm3aw5AFmtR4pUf27Gsk_2Fa8_3D-resultThumbUrl.jpg'
+media_order: MvXt9t87WG8IRuXszwGOLm3aw5AFmtR4pUf27Gsk_2Fa8_3D-resultThumbUrl.jpg
 ---
 
 Starting in the solution we can observe that using EmptiSelf conception enables the Me-Mind paradigm shift which facilitates process orientation to continuously mother process purposes for the present. 
