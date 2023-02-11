@@ -7,12 +7,12 @@ media_order: 'header.jpg,banner2miimind.png'
 hide_git_sync_repo_link: false
 ---
 
-# Say Hello to Grav
-## Fast, Simple, Powerful...
+# Say Hello to Me-Mind with Mi-iMind
+## Understand 50&%Faster..
 
-Grav is a modern flat-file CMS system that focuses on making web development fun again.
+Process orientation provides the way to create willing to know iStates in the present to follow the knowledge flow.
 
-[Read the documentation](https://learn.getgrav.org?classes=btn,btn-primary,btn-lg&target=_blank)
+
 
 
 
