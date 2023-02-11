@@ -1,8 +1,10 @@
 ---
 title: 'Homepage Hero'
 menu: Top
-hero_classes: parallax text-light
+hero_classes: 'parallax text-light'
 hero_image: header.jpg
+media_order: 'header.jpg,banner2miimind.png'
+hide_git_sync_repo_link: false
 ---
 
 # Say Hello to Grav
