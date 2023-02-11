@@ -3,7 +3,7 @@ title: 'Homepage Hero'
 menu: Top
 hero_classes: 'parallax text-light'
 hero_image: banner2q.png
-media_order: 'header.jpg,banner2miimind.png'
+media_order: seasunbanner.jpg
 hide_git_sync_repo_link: false
 ---
 
