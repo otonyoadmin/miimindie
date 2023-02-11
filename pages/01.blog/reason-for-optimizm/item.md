@@ -7,7 +7,7 @@ taxonomy:
         - blog
     tag:
         - 'Positive Present Participation'
-header_image_alt_text: 'City at night'
+header_image_alt_text: 'Understand More Faster'
 hide_git_sync_repo_link: false
 blog_url: /blog
 show_sidebar: true
