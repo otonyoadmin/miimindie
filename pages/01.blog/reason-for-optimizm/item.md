@@ -1,6 +1,6 @@
 ---
 title: 'Mi-iMind Provides A Reason For Optimism'
-hero_classes: 'text-light title-h1h2 overlay-dark hero-large parallax'
+hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-large parallax'
 hero_image: 'Understand More Faster.png'
 taxonomy:
     category:
