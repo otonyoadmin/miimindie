@@ -22,10 +22,11 @@ media_order: '2drop.png,2adrop.jpg'
       
       
       
-### Outline the integrated disciplines which underpin the emergent knowledge flow solutions
+### Outline of the primary disciplines which underpin the emergent knowledge flow solutions
 ---
 
-Outlining the integrated disciplines which underpin the emergent knowledge flow solutions
+#### The solutions provide an infinitely open modality to create space in the present in a human Me-Mind where null state awareness enables the calibration and management of willed states, in the present. The essential point is that what arises is willingly observed as present and it is the willingness to be aware that provides the potential for opening the present from the inside out.
+
 ## Emergent Knowledge Flow Solutions, for professional human knowledge work
 ![](2adrop.jpg)
 
