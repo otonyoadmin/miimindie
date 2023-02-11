@@ -30,7 +30,9 @@ media_order: '2drop.png,2adrop.jpg'
 ## Emergent Knowledge Flow Solutions, for professional human knowledge work
 ![](2adrop.jpg)
 
-This is a framework for processing information, knowledge and understanding in a human Me-Mind living one time forward lifetime. The Buddhist frameworks feature include the Diamond Sutra, The Heart Sutra and Beginners Mind Zen practice. These Buddhist solutions are presented as representing a pragmatic way to deal with the myriad natural attachments that accompany the lived experience of one human lifetime.
+This is a framework for processing information, knowledge and understanding in a human Me-Mind living one time forward lifetime. 
+The tried and tested Buddhist framework for the Doubtless Self that emerges from the 2 Truths as featured include the Diamond Sutra, The Heart Sutra and Beginners Mind Zen practice which enables the creation of ideal attitudes and the capacity to yield in any present moment. 
+These Buddhist solutions are presented as representing a pragmatic way to deal with the myriad natural attachments that accompany the lived experience of the present in one time forward human lifetime/ and they help us avoid the pollution of emergent knowledge caused by the need for self esteem that arises in persona bound self conceptions.
 
 The challenge is to follow the emergent knowledge as near to the present as possible. It is possible to define the constrained infinities the normal anglophone white man inhabits due to delusional sunken values that have already been rendered absurd, the cave is sealed with a name that shadows differentially in each Me-Mind competing in the game of life that uses the bell curve the way astrologers used the maps of the planets to impute meaning where there is none, a life lived for meaning that is not is the only life some people have and can have, this is the nature of the sea of suffering that is the human condition in false views,Schadenfreude wishes ill upon these chimeras belying the small minded nature of Schadenfreude.
 
