@@ -1,5 +1,5 @@
 ---
-title: 'Mi-iMind The Doubtless Self Provides A Reason For Optimism For Some'
+title: 'Mi-iMind Uses The Mindful 1st Doubtless Self A Reason For Optimism For Some'
 hero_classes: 'text-dark title-h1h2 overlay-light-gradient hero-fullscreen parallax'
 hero_image: seasunbanner.jpg
 taxonomy:
@@ -18,6 +18,8 @@ feed:
     limit: 10
 media_order: 'ft.png.png,2adrop.jpg,sunsky1.png,seasunbanner.jpg'
 ---
+
+The EmptiSelf conception used seeks to create a space for inclusive investigation using an iState called Mi-iWitness which uses superior cognitive process application for use during self reflective monitoring and managing experience guided iterative steps involved in new understanding and adaptation guided by the lived experience and ground up weak signal awareness.. 
 
 The process orientation paradigm used within the Mi-iMind emergent knowledge solutions provides a way to track ever better iStates from the inside out.
 
