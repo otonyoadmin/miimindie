@@ -22,7 +22,7 @@ media_order: '2drop.png,2adrop.jpg'
       
       
       
-##### _The primary disciplines which underpin the emergent knowledge flow solutions are outlined here_.
+##### _The primary disciplines which underpin the Mindful 1st   <sup>Test</sup> Mi~iMind emergent knowledge flow solutions are outlined here_.
 ---
 
 ##### **Enabling Willing Awareness** The solutions provide an infinitely open modality to create space in the present in a human Me-Mind where null state awareness enables the calibration and management of willed states, in the present. The essential point is that what arises is willingly observed as present and it is the willingness to be aware that provides the potential for opening the present from the inside out.
