@@ -8,7 +8,6 @@ taxonomy:
     tag:
         - journal
 header_image_alt_text: 'Metal type'
-published: true
 hide_git_sync_repo_link: false
 blog_url: /blog
 show_sidebar: true
