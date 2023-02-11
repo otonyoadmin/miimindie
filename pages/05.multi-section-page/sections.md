@@ -19,8 +19,11 @@ media_order: '2drop.png,2adrop.jpg'
 ---
 
 [div class="sections-page-title"]
+[/div]
 
----[/div]
+
+---
+
 
 ### Outlining the integrated disciplines which underpin the emergent knowledge flow solutions
 ## Emergent Knowledge Flow Solutions, for professional human knowledge work
