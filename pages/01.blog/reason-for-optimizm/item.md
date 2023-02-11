@@ -1,5 +1,5 @@
 ---
-title: 'Mi-iMind Provides A Reason For Optimism'
+title: 'Mi-iMind The Doubtless Self Provides A Reason For Optimism For Some'
 hero_classes: 'text-light title-h1h2 overlay-light-gradient hero-large parallax'
 hero_image: what.png.webp
 taxonomy:
