@@ -1,6 +1,5 @@
 ---
 title: 'Text & Typography'
-date: '13:34 07/19/2017'
 hero_classes: 'text-light title-h1h2 overlay-dark hero-large parallax'
 hero_image: unsplash-text.jpg
 taxonomy:
