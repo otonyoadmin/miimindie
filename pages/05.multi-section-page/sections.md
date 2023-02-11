@@ -18,14 +18,7 @@ hide_next_prev_page_buttons: false
 media_order: '2drop.png,2adrop.jpg'
 ---
 
-[div class="sections-page-title"]
-  
-  
-  
-   
 
-
-[/div]
    
       Outline the integrated disciplines which underpin the emergent knowledge flow solutions
       
