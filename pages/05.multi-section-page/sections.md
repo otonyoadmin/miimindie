@@ -22,7 +22,8 @@ media_order: '2drop.png,2adrop.jpg,mi~imindletters.png,mimindlogostrap.png'
       
       
       
-##### _The primary disciplines which underpin the Mindful 1<sup>st</sup> Mi~iMind emergent knowledge flow solutions are outlined here. While the suppression and repression of information flow in individual personas and like minded groups is acknowledged as a primary polluters of knowledge flow this new Mindful 1st approach does not oppose or stand over against these forms of emergent knowledge pollutants. _.
+##### _The primary disciplines which underpin the Mindful 1<sup>st</sup> Mi~iMind emergent knowledge flow solutions are outlined here. 
+##### **The obvious and not so obvious active suppression and repression of information flow and active distortion of knowledge with root causes in individual persona identities and groups adhering to fixed dominant logics are primary polluters of knowledge flow, this new Mindful 1st approach does not oppose or stand over against these forms of emergent knowledge pollutants**. _
 ---
 The Mi~iMind emergent knowledge flow solutions create the synergies using a unique orchestration of several disciplines. The solutions which depend upon synthetic integration using the EmptiSelf conception which is what makes the Clear Core Evanescent iStates that are needed possible. These Clear-Core iStates represent inner awareness in a human Me-Mind and are required for the ground up communication and flattened hierarchies that can include weak will signal awareness, which is used in for dynamic the threshold management.  
 
