@@ -24,7 +24,7 @@ media_order: '2drop.png,2adrop.jpg,mi~imindletters.png,mimindlogostrap.png'
       
 ##### _The primary disciplines which underpin the Mindful 1<sup>st</sup> Mi~iMind emergent knowledge flow solutions are outlined here_.
 ---
-These are interdisciplinary solutions which depend upon synthetic integration of the EmptiSelf conception which is what makes the Clear Core Evanescent iStates that are required for the ground up communication using flattened hierarchies that can include weak will signal awareness, which is used in for dynamic threshold management.  
+The Mi~iMind emergent knowledge flow solutions create the synergies using a unique orchestration of several disciplines. The solutions which depend upon synthetic integration using the EmptiSelf conception which is what makes the Clear Core Evanescent iStates that are needed possible. These Clear-Core iStates represent inner awareness in a human Me-Mind and are required for the ground up communication and flattened hierarchies that can include weak will signal awareness, which is used in for dynamic the threshold management.  
 
 ##### **Enabling Willing Awareness** The solutions provide an infinitely open modality to create space in the present in a human Me-Mind where null state awareness enables the calibration and management of willed states, in the present. The essential point is that what arises is willingly observed as present and it is the willingness to be aware that provides the potential for opening the present from the inside out.
 
