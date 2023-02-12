@@ -19,8 +19,6 @@ media_order: '2drop.png,2adrop.jpg,mi~imindletters.png,mimindlogostrap.png'
 ---
 
   ![](mimindlogostrap.png) 
-      
-      
 ##### _The primary disciplines which underpin the Mindful 1<sup>st</sup> Mi~iMind emergent knowledge flow solutions are outlined here. _
 ##### **The obvious and not so obvious active suppression and repression of information flow and active distortion of knowledge with root causes in individual persona identities and groups adhering to fixed dominant logics are primary polluters of knowledge flow, this new Mindful 1st approach does not oppose or stand over against these forms of emergent knowledge pollutants**. 
 ---
