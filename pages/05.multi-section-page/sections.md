@@ -63,6 +63,8 @@ From the inside of a Me-Mind there is nothing to be over against, it is the null
 
 **Opening Mi~iMind **  The process orientation that enables infinite inclusion in a Me~Mind depends upon the opening of the iMind
 
+**Hoi Poloi iStates** These are iStates which stand in relationship with the community or origin they can include personal pronoun and other identifiers with status. There is no socio economic or cultural implications as they relate to status from community defined by imprimatur each limited and defined by consistent linear hierarchies, which fail in dynamic emergence.
+
 **1 Door Psychosynthesis** There is only one way to let go of what was not here to begin with, begin again unburdened of the phanthom I with deluded sunken values, begin again from the inside out.
 This context enables us to work with Hoi Poloi iStates to identify patterned pollution of emergent knowledge including weak will awareness. This enables the compassionate integration of the western psychospiritual Psychosynthesis modalities with iStates of present awareness unconfined by self limiting Psychoanalytic roots.
 
