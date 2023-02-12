@@ -1,6 +1,6 @@
 ---
 title: 'Outline Overview'
-published: false
+published: true
 hide_page_title: true
 content:
     items: '@self.children'
