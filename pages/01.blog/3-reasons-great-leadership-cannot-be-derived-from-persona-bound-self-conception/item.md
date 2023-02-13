@@ -20,6 +20,20 @@ published: true
 media_order: MvXt9t87WG8IRuXszwGOLm3aw5AFmtR4pUf27Gsk_2Fa8_3D-resultThumbUrl.jpg
 ---
 
+The systemic space into which all human Me-Minds are invited to succeed curtails the best of us, while empowering the weakest as the consistencies of the Bell curve of the distributions leads the way in the everyday, where superior is simply above average looking down the Holon. 
+
+Some things are only dangerous for people who can, winning the game they told you about is great if they knew the right game. Did anybody ask if you would like to play the present game where the goal and the path are one, where the Me-Mind you live in knows enough to know the right game and can be it, have you asked your self.
+
+The present game is all about knowledge and the willingness to see what it is to be with clarity, without self esteem issues to create the best present possible and learn from every moment how few things there are that are not connected by anything that is not the value of a wave function. There are manifold infinities that are not humans and there are manifold infinities where humans can be.
+
+In a complex system it is the quality of the ground up feedback loop that enables excellent, expert process management, if the iStates we live in are unwilling to face what is the case and act as is and not only as if.
+
+The insights from micro dosing, Ayewaska or cult certainties are bound upon our return to our internal conversations by the language and the narrative two structural limitations that make such crude tools for describing Me-mind as clearly as a wide brush could paint an eylash on the Mona Lisa.
+
+The solutions being proposed here begin with some understanding that far from equilibrium solutions may be wisely attempted for people with the capacity to use EmptiSelf conception.
+
+The challenge is the paradigm change it requires within each individual. The system cannot sustain far from equilibrium solutions because it has a lust for structure that denies evolutionary discoveries sometime because it holds phantom sunken values.
+
 Trying to create great leadership contexts for successful leadership can no longer be left to human resource development modals that are bound to persona derived self conceptions, as such conception are linear and brittle modals in a complex system.
 
 We cannot keep asking for inspirational leadership to arise from an out of date systemic mindset in people management. 
