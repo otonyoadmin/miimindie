@@ -24,7 +24,7 @@ Trying to create great leadership contexts for successful leadership can no long
 
 We cannot keep asking for inspirational leadership to arise from an out of date systemic mindset in people management. 
 
-The knowledge flow distortions caused by persona bound self conceptions, even in Latin and Greek are there to see for all who will to see, in the absurdity of the confidence that drives someone like Boris Johnson, his clear inability to come to terms with the idea that his act is not good for society belies the problems in society that persona bound self conceptions can cause in a complex system like society. If he knows its bad for people and doesn't care that is ok if he believes otherwise that in not ok.
+The knowledge flow distortions caused by persona bound self conceptions, even in Latin and Greek are there to see for all who will to see, in the absurdity of the confidence that drives someone like Boris Johnson, his clear inability to come to terms with the idea that his act is not good for society belies the problems in society that persona bound self conceptions can cause in a complex system like society. If he knows its bad for people and doesn't care that is ok as he is just laying deceiver in a deceiver game in his mind anyway, if he believes otherwise that is not ok.
 
 One obvious system problem is that human resources systems seem unable to understand or want to make obvious the proven flaws and real risks involved in using derivatives of personas as self conceptions, catastrophic risks that Bankers and Quants could explain if the human resource people could hear and if the system will not let them hear they will not hear.
 
