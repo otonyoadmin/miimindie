@@ -19,8 +19,7 @@ feed:
 published: false
 ---
 
-The [Quark theme](https://github.com/getgrav/grav-theme-quark) is the new default theme for Grav built with [Spectre.css](https://picturepan2.github.io/spectre/) the lightweight, responsive and modern CSS framework. Spectre provides  basic styles for typography, elements, and a responsive layout system that utilizes best practices and consistent language design.
-
+This is not a good guy bad guy argument this is an argument from systemic structure, no matter how sincere when the self conception and status is invested in name first identification the Me-Mind is self limiting.
 ===
 
 ! Details on the full capabiltiies of Spectre.css can be found in the [Official Spectre Documentation](https://picturepan2.github.io/spectre/elements.html)
