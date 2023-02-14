@@ -16,7 +16,7 @@ show_pagination: true
 hide_from_post_list: false
 feed:
     limit: 10
-published: false
+published: true
 ---
 
 This is not a good guy bad guy argument this is an argument from systemic structure, no matter how sincere when the self conception and status is invested in name first identification the Me-Mind is self limiting.
