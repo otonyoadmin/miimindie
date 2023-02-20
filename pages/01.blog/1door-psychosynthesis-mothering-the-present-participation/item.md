@@ -20,10 +20,10 @@ published: true
 media_order: MvXt9t87WG8IRuXszwGOLm3aw5AFmtR4pUf27Gsk_2Fa8_3D-resultThumbUrl.jpg
 ---
 
-Are things better today than yesterday this is a question for the entailed iState the persona in the community everyday narrative, the isolated present compared to the past. This pattern of past to present relationship is what community in persona is based, the narrative of a character living here now coming through this or that common narrative.
+The EmptiSelf at the heart of 1 Door Psychosynthesis enables a special type of mothering will from non-Being into present participation.
 
-Hardship narratives are both valid and cliched simultaneously as the infinity of possibilities for a  being nominated as having had the most difficult start in life, in the British Isles, resolves in the declaration that I grew up in a smaller box with less than an Newt and still I'm here.
+The effortless pathways from the heart of 1 Door Psychosynthesis are paved with empty flag stones available in a human Me-Mind, willing to follow the emergent knowledge in the present.
 
-The issue that concerns us here, is not the content, it is the pattern embedded in the content before the content arises and how that pattern constrains the potential for our next steps, if there is an army and a navy in the narritive of our lives we may usefully imagine the flow of time past to time present as telling us something of th sea we must naviate  
+The absurdity of persisting with the notion of human exceptionalism in this Universe, embedded in our self conception, is naive in light of our understanding of complex systems and how language is overtly incomplete when it comes to self description let alone conception.
 
-resolves in more 
+When the facts of life undermine our understanding of our self conception, when not just God is dead, meaning made from feelings alone is dead, like the road from romance we may find ourselves travelling through this lesson time and again before we willingly understand the upstream and downstream consequences and adapt without pain.
