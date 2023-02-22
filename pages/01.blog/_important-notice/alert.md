@@ -9,6 +9,7 @@ media_order: miimindLETTERS.png
 
 ![](miimindLETTERS.png)
 
+Please be aware these are professional knowledge tools that utilize the most advanced mindful self conceptions and they are not presented here for the personal use of non-professional users. These solutions require at least the capacity and willingness to understand the intellectual consequences of using the EmptiSelf conception provided as outlined in the 2 truths revealed in the Heart Sutra.  
 Mindful 1st here means eschewing of persona bound self conceptions derived from ego/I and entailed Memes which use subject object contexts and using EmptiSelf conception which enables process orientation without structural resistances from debunked sunken values. 
 **These are professional knowledge work solutions not a therapeutic interventions, although it is designed for use in professional interventions the solutions provided are designed to create the space for professional knowledge workers to design an deliver these emergent knowledge flow solutions from within their own disciplines. **
 Not everybody will be able to fully understand the paradigm shift required as outlined here as the inner transformations require a willingness to follow the knowledge and the will in the ego/I self conception is bound 
