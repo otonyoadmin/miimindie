@@ -4,7 +4,10 @@ title: 'Important Notice'
 published: true
 visible: false
 hide_git_sync_repo_link: false
+media_order: miimindLETTERS.png
 ---
+
+![](miimindLETTERS.png)
 
 Mindful 1st here means eschewing of persona bound self conceptions derived from ego/I and entailed Memes which use subject object contexts and using EmptiSelf conception which enables process orientation without structural resistances from debunked sunken values. 
 **These are professional knowledge work solutions not a therapeutic interventions, although it is designed for use in professional interventions the solutions provided are designed to create the space for professional knowledge workers to design an deliver these emergent knowledge flow solutions from within their own disciplines. **
