@@ -39,4 +39,4 @@ hide_git_sync_repo_link: false
 # Why Mi~iMind?
 ## **Understand More Faster**
 
-Create willing to know evanescent iStates and manage positive present participation from the inside out and the ground up. 
+Follow the knowledge as near to the present as possible, use iMind to create willing to know evanescent iStates, with ideal attitudes to manage positive present participation in leadership roles, guided from the inside out using clear core iStates for the best ground up feedback. 
