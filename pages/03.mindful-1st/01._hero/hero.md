@@ -9,5 +9,5 @@ hide_git_sync_repo_link: false
 
 # Mindful 1 <sup>**st**</sup> 
 ## NOW - Resting On Nothing
-#### Make, _willing to know now_,  iStates
+#### Make, _**willing to know now**_,  iStates
 #### Engage with the Doubtless Self
