@@ -9,4 +9,4 @@ hide_git_sync_repo_link: false
 
 # Mindful 1 <sup>**st**</sup> 
 ## NOW - Resting On Nothing
-#### Make Willing To Know Now, Evanescent iStates
+#### MAKE, _Willing To Know Now_, Evanescent iStates
