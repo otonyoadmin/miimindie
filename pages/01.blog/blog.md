@@ -4,7 +4,7 @@ hide_git_sync_repo_link: false
 sitemap:
     changefreq: monthly
 body_classes: 'header-dark header-transparent'
-hero_classes: 'text-light title-h1h2 overlay-dark hero-tiny '
+hero_classes: 'text-light title-h1h2 overlay-light-gradient  hero-large'
 blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
