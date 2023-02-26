@@ -12,6 +12,10 @@ media_order: miimindLETTERS.png
 The tools methods and approaches outlined here are for use in the development of professional knowledge flow management systems they are not suitable for use with personal neurotic psychological therapeutic issues.
 There will be a limited number of people working as professionals in human knowledge management who will be able to use these methods as they call for an internal paradigm shift that hinges upon an EmptiSelf conception and eschews the persona bound psychological models of human self conception.
 
+The profound nature of mindfulness resides in a void while here we live our lived experience oscillating between emptiness and form. The pause and become aware part of mindfulness has become a Western toy like all the ancient and sacred tools when reduced to the limitations of language and cultures bound to deluded sunken values, infected with an ontology that imputes human exceptionalism. The profound emptiness that can be revealed beyond the awareness of the interdependence is iconoclastic to the personal 'I'.
+
+Mi~iMind begins from the perspective that an embodied  human Me~Mind, living one time forward lifetime, never steps into the same iState twice.
+
 The methods require the capacity to develop clear core iStates for ground up feedback that can thrive upon error discoveries.
 
 Please be aware these are professional knowledge tools that utilize the most advanced mindful self conceptions and they are not presented here for the personal use of non-professional users. These solutions require at least the capacity and willingness to understand the intellectual consequences of using the EmptiSelf conception provided as outlined in the 2 truths revealed in the Heart Sutra.  
