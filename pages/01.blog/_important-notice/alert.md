@@ -14,7 +14,7 @@ There will be a limited number of people working as professionals in human knowl
 
 The profound nature of mindfulness resides in a void while here we live our lived experience oscillating between emptiness and form. The pause and become aware part of mindfulness has become a Western toy like all the ancient and sacred tools when reduced to the limitations of language and cultures bound to deluded sunken values, infected with an ontology that imputes human exceptionalism. The profound emptiness that can be revealed beyond the awareness of the interdependence is iconoclastic to the personal 'I'.
 
-Mi~iMind begins from the perspective that an embodied  human Me~Mind, living one time forward lifetime, never steps into the same iState twice.
+Mi~iMind begins from the perspective that an embodied  human Me~Mind, living one time forward lifetime, never steps into the same iState twice. This perspective changes the dynamic for the professional knowledge flow professional as it places the responsibility for managing professionalism in the Me~Mind employing the professional iStates in the professional roles we occupy. 
 
 The methods require the capacity to develop clear core iStates for ground up feedback that can thrive upon error discoveries.
 
