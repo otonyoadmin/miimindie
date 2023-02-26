@@ -9,6 +9,11 @@ media_order: miimindLETTERS.png
 
 ![](miimindLETTERS.png)
 
+The tools methods and approaches outlined here are for use in the development of professional knowledge flow management systems they are not suitable for use with personal neurotic psychological therapeutic issues.
+There will be a limited number of people working as professionals in human knowledge management who will be able to use these methods as they call for an internal paradigm shift that hinges upon an EmptiSelf conception and eschews the persona bound psychological models of human self conception.
+
+The methods require the capacity to develop clear core iStates for ground up feedback that can thrive upon error discoveries.
+
 Please be aware these are professional knowledge tools that utilize the most advanced mindful self conceptions and they are not presented here for the personal use of non-professional users. These solutions require at least the capacity and willingness to understand the intellectual consequences of using the EmptiSelf conception provided as outlined in the 2 truths revealed in the Heart Sutra.  
 Mindful 1st here means eschewing of persona bound self conceptions derived from ego/I and entailed Memes which use subject object contexts and using EmptiSelf conception which enables process orientation without structural resistances from debunked sunken values. 
 **These are professional knowledge work solutions not a therapeutic interventions, although it is designed for use in professional interventions the solutions provided are designed to create the space for professional knowledge workers to design an deliver these emergent knowledge flow solutions from within their own disciplines. **
