@@ -4,10 +4,10 @@ title: 'Important Notice'
 published: true
 visible: false
 hide_git_sync_repo_link: false
-media_order: miimindLETTERS.png
+media_order: 'miimindLETTERS.png,miimintxt.png'
 ---
 
-![](miimindLETTERS.png)
+![](miimintxt.png)
 
 The tools methods and approaches outlined here are for use in the development of professional knowledge flow management systems they are not suitable for use with personal neurotic psychological therapeutic issues.
 There will be a limited number of people working as professionals in human knowledge management who will be able to use these methods as they call for an internal paradigm shift that hinges upon an EmptiSelf conception and eschews the persona bound psychological models of human self conception.
