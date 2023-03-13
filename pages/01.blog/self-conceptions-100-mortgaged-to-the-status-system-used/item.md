@@ -17,6 +17,7 @@ hide_from_post_list: false
 feed:
     limit: 10
 published: true
+media_order: 'tallsunsky.ai,unsplash-text.jpg,miimintxt.png'
 ---
 
 [plugin:youtube](https://www.youtube.com/watch?v=CpyrNikQjDU)
