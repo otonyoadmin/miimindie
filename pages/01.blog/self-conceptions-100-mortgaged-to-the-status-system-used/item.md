@@ -1,7 +1,7 @@
 ---
 title: 'Self Conceptions 100% Mortgaged To The Status System Used'
 hero_classes: 'text-light title-h1h2 overlay-dark hero-large parallax'
-hero_image: unsplash-text.jpg
+hero_image: miimintxt.png
 taxonomy:
     category:
         - blog
@@ -17,7 +17,7 @@ hide_from_post_list: false
 feed:
     limit: 10
 published: true
-media_order: 'tallsunsky.ai,unsplash-text.jpg,miimintxt.png'
+media_order: 'unsplash-text.jpg,miimintxt.png'
 ---
 
 [plugin:youtube](https://www.youtube.com/watch?v=CpyrNikQjDU)
