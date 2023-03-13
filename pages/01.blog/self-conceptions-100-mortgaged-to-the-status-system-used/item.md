@@ -19,6 +19,8 @@ feed:
 published: true
 ---
 
+[plugin:youtube](https://www.youtube.com/watch?v=CpyrNikQjDU)
+
 This is not a good guy bad guy argument this is an argument from systemic structure, no matter how sincere when the self conception and status is invested in name first identification the Me-Mind is self limiting.
 ===
 
